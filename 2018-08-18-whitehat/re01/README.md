@@ -1,6 +1,6 @@
 # re1 (re, 100pts)
 
-List of executable resources viewed in Resource Hacker:
+List of executable resources viewed in Resource Hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker):
 
 ![resources](resources.png)
 
